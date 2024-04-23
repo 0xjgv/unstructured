@@ -1,4 +1,14 @@
-## 0.13.3-dev9
+## 0.13.4-dev0
+
+### Enhancements
+
+### Features
+
+### Fixes
+
+* **Remove ElementMetadata.section field.**. This field was unused, not populated by any partitioners.
+
+## 0.13.3
 
 ### Enhancements
 
